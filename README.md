@@ -29,8 +29,8 @@ I'm Charan!
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align = "center">
-  <a href="mailto:charan.netha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/245-sai-charan" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn"></a>
+  <a href="mailto:245charan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/245-sai-charan" target="_blank"><img src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="LinkedIn"></a>
   <a href="https://github.com/245charan/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
 
