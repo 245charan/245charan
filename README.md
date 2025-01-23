@@ -1,37 +1,149 @@
-### Hi there 👋
+<!--# Welcome to My GitHub Profile! 👋
 
-<!--
-**245charan/245charan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a Software Engineer with over 4 years of experience in building scalable, high-performance applications and working with cloud technologies. I specialize in full-stack development, data optimization, and system enhancements. Currently, I am contributing to **Sakai LMS Development** and mentoring students as a **Computer Science Tutor** at **Marist College**.
 
-Here are some ideas to get you started:
+## Current Focus 🚀
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- ### Hi  👋 -->
+### Marist College (Oct 2023 - Present) | Poughkeepsie, NY
+- **Sakai LMS Development & Enhancement**:
+  - Developed and scaled a live-stream pipeline from 200 to 300,000 users per session.
+  - Expanded streaming channels from 2 to 250+.
+  - Focused on **accessibility improvements**, bug fixes, and backend solutions for **on-demand content** using **AWS**.
+  - Ensured WCAG-compliant features to improve **LMS usability** and reliability.
+  - Worked closely with staff to gather feedback and implement continuous improvements.
 
-I'm Charan! 
+### Computer Science Tutor (Oct 2023 - Mar 2024)
+- Provide personalized tutoring sessions in **Computer Science**, covering topics like:
+  - Programming languages (Java, Python, JavaScript)
+  - Data Structures & Algorithms
+  - **React**, **Redux**, **JavaScript**, and more.
 
-- 🔭 I’m currently working on React JS
-- 🌱 I’m currently learning programming
+## Past Work Experience 💼
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=245charan&show_icons=true&theme=radical&line_height=33">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=245charan&hide_langs_below=.25&theme=radical">
-</p>
+### Innova Solutions (formerly ACS Solutions) (Mar 2021 - Aug 2023) | Software Engineer | Hyderabad, India (Hybrid)
+- **BNYMellon Project**:
+  - **Metering Team (Tier 1 Service)**: Led data storage optimization using **Apache Spark** and **Autonomous Data Warehouse**, processing up to 1M records per second.
+  - **License Manager Team (Tier 2 Service)**: Designed and implemented **License Management** modules, focusing on reconciliation and large-scale data handling.
+  - **Cloud Advisor Team (Tier 2 Service)**: Enhanced **tenant reporting** and cloud resilience for US and UK government sectors, implementing cross-region data backup solutions.
+  - **Frontend Development**: Built **Single Page Applications (SPAs)** and reusable React libraries, improved UI performance through **REST API** integrations and **micro-frontend architecture**.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### OaksPro Software Solutions, T-Hub (Mar 2020 - Mar 2021) | Junior Software Developer | Hyderabad, India (Remote)
+- Developed solutions for **pose recognition** using **ergocentric videos** and **DynamoDB** for managing millions of daily API calls.
+- Automated **Git pull request merges**, improving code integrity and reducing manual intervention.
+- Created productivity-boosting **scripts** to streamline development workflows.
 
-<p align = "center">
-  <a href="mailto:245charan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/245-sai-charan" target="_blank"><img src="[https://cdn-icons-png.flaticon.com/512/174/174857.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)" alt="LinkedIn"></a>
-  <a href="https://github.com/245charan/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
-</p>
+## Technical Skills 🛠️
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Programming Languages:
+- **Java, JavaScript, Node.js, Python, C/C++**
+
+### Frameworks & Tools:
+- **ReactJS, Redux, SpringBoot, Selenium, JUnit, Docker, AWS (S3, EC2), Apache Spark, Elasticsearch**
+
+### Databases:
+- **PostgreSQL, Oracle DB, MongoDB, Redis**
+
+### Other Technologies:
+- **Git/GitHub, Webpack, Jest, React Testing Library (RTL), Caching Technologies**
+- **Linux/Unix, System Design, Cloud Solutions**
+
+## Projects & Contributions 🔧
+
+Here are a few highlights of the projects I've worked on:
+
+- **[Sakai LMS Enhancements](#)**: Contributed to Sakai LMS by improving accessibility, scalability, and backend functionality.
+- **[Real-time Data Processing with Apache Spark](#)**: Built high-speed data processing solutions handling up to 1M records/sec.
+- **[React & Redux SPA Libraries](#)**: Developed reusable libraries and optimized frontend performance.
+
+Check out my repositories for more projects and code samples!
+
+## Contact & Let's Connect 📬
+
+Feel free to connect with me:
+- **LinkedIn**: [https://linkedin.com/in/charan-epuri]
+- **Email**: [charan.epuri1@marist.edu]
+
+---
+
+Thank you for visiting my GitHub profile! Looking forward to collaborating and learning together. 🚀-->
+
+# Welcome to My GitHub Profile! 👋
+
+Hi! I'm a Software Engineer with over 4 years of experience in building scalable, high-performance applications and working with cloud technologies. I specialize in full-stack development, data optimization, and system enhancements. Currently, I am contributing to **Sakai LMS Development** and mentoring students as a **Computer Science Tutor** at **Marist College**.
+
+## Current Focus 🚀
+
+### Marist College (Oct 2023 - Present) | Poughkeepsie, NY
+- **Sakai LMS Development & Enhancement**:
+  - Developed and scaled a live-stream pipeline from 200 to 300,000 users per session.
+  - Expanded streaming channels from 2 to 250+.
+  - Focused on **accessibility improvements**, bug fixes, and backend solutions for **on-demand content** using **AWS**.
+  - Ensured WCAG-compliant features to improve **LMS usability** and reliability.
+  - Worked closely with staff to gather feedback and implement continuous improvements.
+
+### Computer Science Tutor (Oct 2023 - Mar 2024)
+- Provide personalized tutoring sessions in **Computer Science**, covering topics like:
+  - Programming languages (Java, Python, JavaScript)
+  - Data Structures & Algorithms
+  - **React**, **Redux**, **JavaScript**, and more.
+
+## Past Work Experience 💼
+
+### Innova Solutions (formerly ACS Solutions) (Mar 2021 - Aug 2023) | Software Engineer | Hyderabad, India (Hybrid)
+- **BNYMellon Project**:
+  - **Metering Team (Tier 1 Service)**: Led data storage optimization using **Apache Spark** and **Autonomous Data Warehouse**, processing up to 1M records per second.
+  - **License Manager Team (Tier 2 Service)**: Designed and implemented **License Management** modules, focusing on reconciliation and large-scale data handling.
+  - **Cloud Advisor Team (Tier 2 Service)**: Enhanced **tenant reporting** and cloud resilience for US and UK government sectors, implementing cross-region data backup solutions.
+  - **Frontend Development**: Built **Single Page Applications (SPAs)** and reusable React libraries, improved UI performance through **REST API** integrations and **micro-frontend architecture**.
+
+### OaksPro Software Solutions, T-Hub (Mar 2020 - Mar 2021) | Junior Software Developer | Hyderabad, India (Remote)
+- Developed solutions for **pose recognition** using **ergocentric videos** and **DynamoDB** for managing millions of daily API calls.
+- Automated **Git pull request merges**, improving code integrity and reducing manual intervention.
+- Created productivity-boosting **scripts** to streamline development workflows.
+
+## Technical Skills 🛠️
+
+### Programming Languages:
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+### Frameworks & Libraries:
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+- ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+- ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Databases & Cloud:
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+### Tools & Others:
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+- ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+- ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+
+## Projects & Contributions 🔧
+
+Here are a few highlights of the projects I've worked on:
+
+- **[Sakai LMS Enhancements](#)**: Contributed to Sakai LMS by improving accessibility, scalability, and backend functionality.
+- **[Real-time Data Processing with Apache Spark](#)**: Built high-speed data processing solutions handling up to 1M records/sec.
+- **[React & Redux SPA Libraries](#)**: Developed reusable libraries and optimized frontend performance.
+
+Check out my repositories for more projects and code samples!
+
+## Contact & Let's Connect 📬
+
+Feel free to connect with me:
+- **LinkedIn**: [https://linkedin.com/in/charan-epuri]
+- **Email**: [charan.epuri1@marist.edu]
+---
+
+Thank you for visiting my GitHub profile! Looking forward to collaborating and learning together. 🚀
+
