@@ -69,7 +69,7 @@ Thank you for visiting my GitHub profile! Looking forward to collaborating and l
 
 # Welcome to My GitHub Profile! 👋
 
-Hi! I'm a Software Engineer with over 4 years of experience in building scalable, high-performance applications and working with cloud technologies. I specialize in full-stack development, data optimization, and system enhancements. Currently, I am contributing to **Sakai LMS Development** and mentoring students as a **Computer Science Tutor** at **Marist College**.
+Hi! I'm a Software Engineer experienced in building scalable, high-performance applications and working with cloud technologies. I specialize in full-stack development, data optimization, and system enhancements. Currently, I am contributing to **Sakai LMS Development** and mentoring students as a **Computer Science Tutor** at **Marist College**.
 
 ## Current Focus 🚀
 
