@@ -4,7 +4,7 @@ Hi! I'm a Software Engineer experienced in building scalable, high-performance a
 
 ## Current Focus 🚀
 
-### Marist College (Oct 2023 - Present) | Poughkeepsie, NY
+### Marist College (Feb 2024 - Present) | Poughkeepsie, NY
 - **Sakai LMS Development & Enhancement**:
   - Developed and scaled a live-stream pipeline from 200 to 300,000 users per session.
   - Expanded streaming channels from 2 to 250+.
@@ -73,7 +73,7 @@ Hi! I'm a Software Engineer experienced in building scalable, high-performance a
 
 ## Current Focus 🚀
 
-### Marist College (Oct 2023 - Present) | Poughkeepsie, NY
+### Marist University (Feb 2024 - Present) | Poughkeepsie, NY
 - **Sakai LMS Development & Enhancement**:
   - Developed and scaled a live-stream pipeline from 200 to 300,000 users per session.
   - Expanded streaming channels from 2 to 250+.
